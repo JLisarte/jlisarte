@@ -26,9 +26,10 @@
 <a href = "mailto:juliano.lisarte@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ##
+### Contact me - Join server discord
 <p align="left">
   <a href="https://discord.me/jlisarte" target="_blank">
-    <img height="45em" src="https://skillicons.dev/icons?i=discord" />
+    <img height="45em" src="https://skillicons.dev/icons?i=discord" target="_blank"/>
   </a>
 </p>
 
