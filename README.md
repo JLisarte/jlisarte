@@ -27,7 +27,7 @@
 
 ##
 <p align="left">
-  <a href="discord.me/jlisarte">
+  <a href="https://discord.me/jlisarte" target="_blank">
     <img height="45em" src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
