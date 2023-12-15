@@ -8,6 +8,8 @@
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=JLisarte&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JLisarte&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
+[![Dunsin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JLisarte&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/Dun-sin/Code-Magic)
+
 ### 💻Technologys
 <p align="left">
   <a href="https://skillicons.dev">
