@@ -13,16 +13,25 @@
 ### 💻Technologys
 <p align="left">
   <a href="https://skillicons.dev">
-    <img height="45em" src="https://skillicons.dev/icons?i=html,css,js,c,vscode,figma,git,github,arduino,discord,linkedin" />
+    <img height="45em" src="https://skillicons.dev/icons?i=html,css,js,c,vscode,figma,git,github,arduino,linkedin" />
   </a>
 </p>
 
-##
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/1077296186618302555?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/1077296186618302555)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/1077296186618302555)
 
 ##
 ### My social media
+
 <a href="https://www.linkedin.com/in/juliano-lisarte-983ab3266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 <a href = "mailto:juliano.lisarte@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+##
+<p align="left">
+  <a href="discord.me/jlisarte">
+    <img height="45em" src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</p>
+
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/1077296186618302555?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/1077296186618302555)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/1077296186618302555)
