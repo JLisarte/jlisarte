@@ -31,11 +31,11 @@
 
 ##
 ### Contact me - Join server discord
-
+<p align="left">
   <a href="https://discord.me/jlisarte" target="_blank">
     <img height="45em" src="https://skillicons.dev/icons?i=discord"/>
   </a>
-
+</p>
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/1077296186618302555?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/1077296186618302555)
