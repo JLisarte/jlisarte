@@ -43,3 +43,5 @@
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/1077296186618302555?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/1077296186618302555)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/1077296186618302555)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JLisarte&label=Profile%20views&color=006eb3&style=flat" alt="JLisarte" /> </p>
