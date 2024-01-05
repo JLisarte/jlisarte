@@ -2,6 +2,8 @@
 
  📚Study software engineering
 
+ 📚Study Rockeseat
+
  ✨Trying to always improve my skills 
 
  ##
